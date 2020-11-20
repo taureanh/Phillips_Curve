@@ -6,9 +6,9 @@ The aim of our project is to establish the relationship between inflation and un
 
 In doing so, we also establish the relationship between GDP and unemployment, Okun's Law
 
-Programs Used: \
-Python \ 
-Jupyter Notebook \ 
+Programs Used:\
+Python\ 
+Jupyter Notebook\ 
 Pandas
 
 Data Sources:\
