@@ -11,4 +11,4 @@ Pandas
 
 Data Sources:\
 https://fred.stlouisfed.org\
-FRED APIs 
+FRED APIs.
