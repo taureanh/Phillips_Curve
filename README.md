@@ -6,9 +6,9 @@ In doing so, we also establish the relationship between GDP and unemployment, Ok
 
 Programs Used:\
 Python\
-Jupyter Notebook\ 
+Jupyter Notebook\
 Pandas
 
 Data Sources:\
-https://fred.stlouisfed.org/\
+https://fred.stlouisfed.org\
 FRED APIs 
