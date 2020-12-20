@@ -10,5 +10,5 @@ Jupyter Notebook\
 Pandas
 
 Data Sources:\
-https://fred.stlouisfed.org\
+https://fred.stlouisfed.org \
 FRED APIs.
