@@ -11,8 +11,8 @@ Collect  unemployment and gdp data using FRED and FRED api
 
 Create line graphs for inflation and unemployment rate
 
-![](images\US Inflation Rate (1947-2019)events.png)
-![](images\US Unemployment Rate 1947-2019 events.png)
+![](PHILLIPS_CURVE/images/US Inflation Rate (1947-2019)events.png)
+![](images\US Unemployment Rate 1947-2019 events.png)  
 
 
 Run regression analysis on employment vs inflation
@@ -22,6 +22,7 @@ Run regression analysis on employment vs inflation
 
 
 Run regression analysis on unemployment vs gdp 
+
 ![](images\regr1.png)
 ![](images\US Unemployment vs GDP (1947-2019).png)
 
