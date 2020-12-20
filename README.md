@@ -5,24 +5,24 @@ The aim of our project is to establish the relationship between inflation and un
 
 In doing so, we also establish the relationship between GDP and unemployment, Okun's Law
 
-Collect  unemployment and gdp data using FRED and FRED api
+## Collect  unemployment and gdp data using FRED and FRED api
 
 ![](images/pic1.png)
 
 
-Create line graphs for inflation and unemployment rate
+## Create line graphs for inflation and unemployment rate
 
-![](PHILLIPS_CURVE/images/US Inflation Rate (1947-2019)events.png)
+![](images/US Inflation Rate (1947-2019)events.png)
 ![](images/US Unemployment Rate 1947-2019 events.png)  
 
 
-Run regression analysis on employment vs inflation
+## Run regression analysis on employment vs inflation
 
 ![](images/regr.png)
 ![](images/NJ Unemployment vs Inflation Regression (1976-2020).png)
 
 
-Run regression analysis on unemployment vs gdp 
+## Run regression analysis on unemployment vs gdp 
 
 ![](images/regr1.png)
 ![](images/US Unemployment vs GDP (1947-2019).png)
@@ -32,6 +32,7 @@ Run regression analysis on unemployment vs gdp
 Programs Used:\
 Jupyter Notebook\
 Pandas
+
 
 Data Sources:\
 https://fred.stlouisfed.org \
