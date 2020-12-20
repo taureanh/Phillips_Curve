@@ -12,7 +12,7 @@ In doing so, we also establish the relationship between GDP and unemployment, Ok
 
 ## Create line graphs for inflation and unemployment rate
 
-![](images/US Inflation Rate (1947-2019)events.png)
+![](images/US Inflation Rate (1947-2019)events.png)\
 ![](images/US Unemployment Rate 1947-2019 events.png)  
 
 
