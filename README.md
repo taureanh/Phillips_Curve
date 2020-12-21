@@ -31,12 +31,12 @@ In doing so, we also establish the relationship between GDP and unemployment, Ok
 
 
 
-Programs Used:\
-Jupyter Notebook\
-Pandas
+## Programs Used:
+* Jupyter Notebook
+* Pandas
 
 
-Data Sources:\
-https://fred.stlouisfed.org \
-FRED APIs.
+## Data Sources:
+* https://fred.stlouisfed.org 
+* FRED APIs.
 
